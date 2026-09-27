@@ -1,5 +1,7 @@
 # homelayout
 
+(disclosure: completely vibecoded to avoid spending several lifetimes tapping and dragging a bunch of little squares on a rectangle)
+
 Dump and apply a Samsung One UI home-screen layout over ADB, without root.
 
 The phone's layout lives in the launcher's private database, which you can't reach without root. So
